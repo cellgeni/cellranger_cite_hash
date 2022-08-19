@@ -1,0 +1,10 @@
+id,name,read,pattern,sequence,feature_type
+HTO1,HTO1,R2,^(BC),GTCAACTCTTTAGCG,Antibody Capture
+HTO2,HTO2,R2,^(BC),TGATGGCCTATTGGG,Antibody Capture
+HTO3,HTO3,R2,^(BC),TTCCGCCTCTCTTTG,Antibody Capture
+HTO4,HTO4,R2,^(BC),AGTAAGTTCAGCGTA,Antibody Capture
+HTO5,HTO5,R2,^(BC),AAGTATCGTTTCGCA,Antibody Capture
+HTO6,HTO6,R2,^(BC),GGTTGCCAGATGTCA,Antibody Capture
+HTO7,HTO7,R2,^(BC),TGTCTTTCCTGCCAG,Antibody Capture
+HTO8,HTO8,R2,^(BC),CTCCTCTGCAATTAC,Antibody Capture
+HTO9,HTO9,R2,^(BC),CAGTAGTCACGGTCA,Antibody Capture

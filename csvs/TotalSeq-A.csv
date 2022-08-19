@@ -1,0 +1,16 @@
+id,name,read,pattern,sequence,feature_type
+TIGIT,TIGIT_TotalA,R2,^(BC),TTGCTTACCGCCAGA,Antibody Capture
+CD279,CD279_TotalA,R2,^(BC),ACAGCGCCGTATTTA,Antibody Capture
+CD127,CD127_TotalA,R2,^(BC),GGCACCCATGTCTTT,Antibody Capture
+CD56,CD56_TotalA,R2,^(BC),TTCGCCGCATTGAGT,Antibody Capture
+CD45RO,CD45RO_TotalA,R2,^(BC),CTCCGAATCATGTTG,Antibody Capture
+CD45RA,CD45RA_TotalA,R2,^(BC),TCAATCCTTCCGCTT,Antibody Capture
+CD45,CD45_TotalA,R2,^(BC),TAGCGTGGAGTAGTG,Antibody Capture
+CD25,CD25_TotalA,R2,^(BC),TTTGTCCTGTACGCC,Antibody Capture
+CD19,CD19_TotalA,R2,^(BC),CTGGGCAATTACTCG,Antibody Capture
+CD16,CD16_TotalA,R2,^(BC),AAGTTCACTCTTTGC,Antibody Capture
+CD15,CD15_TotalA,R2,^(BC),TTGGACGTGCGATCT,Antibody Capture
+CD14,CD14_TotalA,R2,^(BC),TCTCAGACCTCCGTA,Antibody Capture
+CD8A,CD8A_TotalA,R2,^(BC),GCTGCGCTTTCCATT,Antibody Capture
+CD4,CD4_TotalA,R2,^(BC),TGTTCCCGCTCAACT,Antibody Capture
+CD3,CD3_TotalA,R2,^(BC),CTCATTGTAACTCCT,Antibody Capture
