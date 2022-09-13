@@ -12,7 +12,11 @@ Used antibodies and the sequence and location of used barcode are usually given 
 
 Overall analysis workflow of feature barcoding experiments with `Cell Ranger` can be found [here](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/feature-bc-analysis). Briefly, 
   - we use `cellranger count` command to process gene expression (regular scRNA-seq) and feature barcoding (antibody) experiments simultaneously;
-  - library CSV file is used to specify where both fastq files are located. Fastq files need to be formatted according to `Cell Ranger` requirements (i.e. should look like `<sample>_S1_L001_R1_001.fastq.gz`); 
+  - library CSV file is used to specify where both fastq files are located. Fastq files need to be formatted according to `Cell Ranger` requirements (i.e. should look like `<sample>_S*_L00*_R1_001.fastq.gz`); 
   - feature barcoding CSV file needs to be provided (see above). 
 
 If the experiment is cell hashing, once the counting is complete, one can use [Solo](https://github.com/calico/solo) to demultiplex individual hashed samples. I will add example notebook later, I promise. 
+
+The output can be seen with `sample/outs` from the directory where the cellranger command was executed.
+
+Please note to install cellranger you have to provide institute details and then get a personal download link, so the dockerfile has replaced that link with "personal login link"
