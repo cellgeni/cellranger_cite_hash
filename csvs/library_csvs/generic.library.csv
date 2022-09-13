@@ -1,0 +1,3 @@
+fastqs,sample,library_type
+/path/to/sample/gex/fastqs,gex_sampleid,Gene Expression
+/path/to/sample/antibody/fastqs,antibody_sampleid,Antibody Capture
